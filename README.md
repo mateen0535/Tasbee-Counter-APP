@@ -1,2 +1,17 @@
-<img width="1600" height="759" alt="WhatsApp Image 2026-09-25 at 12 26 22 AM" src="https://github.com/user-attachments/assets/a4db8766-38d8-44f9-a35f-2b77467f4f5e" />
-<img width="1600" height="757" alt="WhatsApp Image 2026-09-25 at 12 26 03 AM" src="https://github.com/user-attachments/assets/053100e0-27e6-4bc2-9396-312b27cb56ae" />
+# tasbeeh_gui_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
